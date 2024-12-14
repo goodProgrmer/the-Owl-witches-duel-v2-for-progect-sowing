@@ -1,0 +1,6 @@
+luz/plantN/0:0,45
+luz/plantN/1:2,46
+luz/plantN/2:-12,55
+luz/plantN/3:-50,59
+luz/plantN/4:-61,76
+luz/plantN/5:-42,86

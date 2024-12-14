@@ -1,0 +1,3 @@
+hanter/kikU/0:0,44
+hanter/kikU/2:-2,44
+hanter/kikU/4:-4,44

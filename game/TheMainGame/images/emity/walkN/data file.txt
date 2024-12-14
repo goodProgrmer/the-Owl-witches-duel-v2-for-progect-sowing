@@ -1,0 +1,14 @@
+emity/walkN/0:0,29
+emity/walkN/1:0,29
+emity/walkN/10:6,28
+emity/walkN/11:6,28
+emity/walkN/12:-1,20
+emity/walkN/13:-1,20
+emity/walkN/2:5,24
+emity/walkN/3:5,24
+emity/walkN/4:6,28
+emity/walkN/5:6,28
+emity/walkN/6:-22,27
+emity/walkN/7:-22,27
+emity/walkN/8:-1,30
+emity/walkN/9:-1,30

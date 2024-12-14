@@ -1,0 +1,14 @@
+emity/golem/walkN/0:0,56
+emity/golem/walkN/1:0,56
+emity/golem/walkN/10:4,52
+emity/golem/walkN/11:4,52
+emity/golem/walkN/12:9,54
+emity/golem/walkN/13:9,54
+emity/golem/walkN/2:4,52
+emity/golem/walkN/3:4,52
+emity/golem/walkN/4:12,54
+emity/golem/walkN/5:12,54
+emity/golem/walkN/6:-14,52
+emity/golem/walkN/7:-14,52
+emity/golem/walkN/8:0,56
+emity/golem/walkN/9:0,56

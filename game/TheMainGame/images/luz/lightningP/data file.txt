@@ -1,0 +1,5 @@
+luz/lightningP/0:0,45
+luz/lightningP/1:0,44
+luz/lightningP/2:1,46
+luz/lightningP/3:1,46
+luz/lightningP/4:1,45

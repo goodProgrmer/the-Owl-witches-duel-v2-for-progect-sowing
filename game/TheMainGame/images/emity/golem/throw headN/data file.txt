@@ -1,0 +1,15 @@
+emity/golem/throw headN/0:0,24
+emity/golem/throw headN/1:0,24
+emity/golem/throw headN/10:20,32
+emity/golem/throw headN/11:20,32
+emity/golem/throw headN/12:17,28
+emity/golem/throw headN/13:17,28
+emity/golem/throw headN/14:17,28
+emity/golem/throw headN/2:5,26
+emity/golem/throw headN/3:5,26
+emity/golem/throw headN/4:16,26
+emity/golem/throw headN/5:16,26
+emity/golem/throw headN/6:30,28
+emity/golem/throw headN/7:30,28
+emity/golem/throw headN/8:32,33
+emity/golem/throw headN/9:32,33

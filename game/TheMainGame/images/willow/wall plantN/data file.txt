@@ -1,0 +1,11 @@
+willow/wall plantN/0:0,65
+willow/wall plantN/1:0,65
+willow/wall plantN/10:-4,63
+willow/wall plantN/2:2,66
+willow/wall plantN/3:2,66
+willow/wall plantN/4:2,70
+willow/wall plantN/5:2,70
+willow/wall plantN/6:-4,63
+willow/wall plantN/7:-4,63
+willow/wall plantN/8:-4,63
+willow/wall plantN/9:-4,63

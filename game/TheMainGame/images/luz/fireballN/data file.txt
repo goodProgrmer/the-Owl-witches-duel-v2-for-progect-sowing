@@ -1,0 +1,12 @@
+luz/fireballN/0:0,83
+luz/fireballN/1:-9,81
+luz/fireballN/10:-25,76
+luz/fireballN/11:-25,80
+luz/fireballN/2:-25,83
+luz/fireballN/3:-30,82
+luz/fireballN/4:-32,80
+luz/fireballN/5:-29,75
+luz/fireballN/6:-34,73
+luz/fireballN/7:-37,72
+luz/fireballN/8:-23,73
+luz/fireballN/9:-23,74

@@ -1,0 +1,12 @@
+emity/golem/death_with_head/0:0,144
+emity/golem/death_with_head/1:0,144
+emity/golem/death_with_head/10:-24,296
+emity/golem/death_with_head/11:-24,296
+emity/golem/death_with_head/2:4,136
+emity/golem/death_with_head/3:4,136
+emity/golem/death_with_head/4:8,128
+emity/golem/death_with_head/5:8,128
+emity/golem/death_with_head/6:0,224
+emity/golem/death_with_head/7:0,224
+emity/golem/death_with_head/8:8,280
+emity/golem/death_with_head/9:8,280

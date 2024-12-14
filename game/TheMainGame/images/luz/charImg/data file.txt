@@ -1,0 +1,5 @@
+luz/charImg/hited:2,15
+luz/charImg/onAirN:1,8
+luz/charImg/onAirP:2,8
+luz/charImg/standN:1,1
+luz/charImg/standP:1,1

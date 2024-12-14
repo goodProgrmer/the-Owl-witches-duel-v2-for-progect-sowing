@@ -1,0 +1,6 @@
+emity/kikP/0:0,26
+emity/kikP/1:0,26
+emity/kikP/2:-6,20
+emity/kikP/3:-6,20
+emity/kikP/4:-6,20
+emity/kikP/5:-6,20

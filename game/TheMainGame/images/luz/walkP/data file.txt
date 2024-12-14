@@ -1,0 +1,6 @@
+luz/walkP/0:0,55
+luz/walkP/10:1,58
+luz/walkP/12:13,56
+luz/walkP/2:-2,55
+luz/walkP/4:12,55
+luz/walkP/6:13,55

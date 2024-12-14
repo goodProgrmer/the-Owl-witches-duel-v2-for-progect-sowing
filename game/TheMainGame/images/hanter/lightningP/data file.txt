@@ -1,0 +1,9 @@
+hanter/lightningP/0:0,23
+hanter/lightningP/1:0,23
+hanter/lightningP/2:0,23
+hanter/lightningP/3:-4,23
+hanter/lightningP/4:-4,23
+hanter/lightningP/5:-4,23
+hanter/lightningP/6:1,26
+hanter/lightningP/7:3,26
+hanter/lightningP/8:3,26

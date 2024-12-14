@@ -1,0 +1,7 @@
+gus/flyP/0:0,173
+gus/flyP/10:-35,150
+gus/flyP/12:-29,147
+gus/flyP/2:-25,142
+gus/flyP/4:-24,146
+gus/flyP/6:-25,143
+gus/flyP/8:-64,125

@@ -1,0 +1,17 @@
+luz/ice jump/0:0,58
+luz/ice jump/1:-1,57
+luz/ice jump/10:-2,51
+luz/ice jump/11:-9,50
+luz/ice jump/12:-24,52
+luz/ice jump/13:-39,50
+luz/ice jump/14:-41,57
+luz/ice jump/15:-27,66
+luz/ice jump/16:-14,90
+luz/ice jump/2:-4,56
+luz/ice jump/3:-25,53
+luz/ice jump/4:-16,52
+luz/ice jump/5:-1,51
+luz/ice jump/6:0,50
+luz/ice jump/7:-2,51
+luz/ice jump/8:-2,51
+luz/ice jump/9:-1,51

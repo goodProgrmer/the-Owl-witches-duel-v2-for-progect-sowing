@@ -1,0 +1,4 @@
+loged usernames num:2
+users in the game num:1
+played online games:0
+common networks:['192.168.56.0', '10.241.0.0', '10.243.0.0', '192.168.14.0']

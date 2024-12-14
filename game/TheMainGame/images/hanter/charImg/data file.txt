@@ -1,0 +1,5 @@
+hanter/charImg/standN:0,51
+hanter/charImg/standP:0,51
+hanter/charImg/onAirN:0,9
+hanter/charImg/onAirP:0,9
+hanter/charImg/hited:0,0

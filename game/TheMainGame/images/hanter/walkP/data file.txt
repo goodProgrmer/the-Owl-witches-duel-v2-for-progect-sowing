@@ -1,0 +1,14 @@
+hanter/walkP/0:0,41
+hanter/walkP/1:0,41
+hanter/walkP/10:23,60
+hanter/walkP/11:22,59
+hanter/walkP/12:49,49
+hanter/walkP/13:49,49
+hanter/walkP/2:23,60
+hanter/walkP/3:22,58
+hanter/walkP/4:49,49
+hanter/walkP/5:49,49
+hanter/walkP/6:48,48
+hanter/walkP/7:48,48
+hanter/walkP/8:2,44
+hanter/walkP/9:2,44

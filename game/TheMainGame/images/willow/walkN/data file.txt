@@ -1,0 +1,14 @@
+willow/walkN/0:0,64
+willow/walkN/1:0,64
+willow/walkN/10:-10,59
+willow/walkN/11:-10,59
+willow/walkN/12:-13,54
+willow/walkN/13:-13,54
+willow/walkN/2:-5,61
+willow/walkN/3:-5,61
+willow/walkN/4:-6,63
+willow/walkN/5:-5,63
+willow/walkN/6:-24,59
+willow/walkN/7:-24,59
+willow/walkN/8:-10,58
+willow/walkN/9:-10,58

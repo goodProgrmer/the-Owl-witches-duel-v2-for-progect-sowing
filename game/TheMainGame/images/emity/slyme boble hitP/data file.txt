@@ -1,0 +1,7 @@
+emity/slyme boble hitP/0:0,20
+emity/slyme boble hitP/1:0,20
+emity/slyme boble hitP/2:14,96
+emity/slyme boble hitP/3:14,96
+emity/slyme boble hitP/4:8,80
+emity/slyme boble hitP/5:8,80
+emity/slyme boble hitP/6:8,80

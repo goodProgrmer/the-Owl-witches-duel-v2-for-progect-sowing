@@ -1,0 +1,5 @@
+emity/golem/charImg/onAirN:0,96
+emity/golem/charImg/hited:0,96
+emity/golem/charImg/onAirP:0,96
+emity/golem/charImg/standN:0,96
+emity/golem/charImg/standP:0,96

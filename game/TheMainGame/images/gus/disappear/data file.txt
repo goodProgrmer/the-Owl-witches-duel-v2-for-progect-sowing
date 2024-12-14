@@ -1,0 +1,4 @@
+gus/disappear/0:0,30
+gus/disappear/1:-7,29
+gus/disappear/2:-4,28
+gus/disappear/3:-13,23

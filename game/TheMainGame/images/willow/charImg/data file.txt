@@ -1,0 +1,6 @@
+willow/charImg/standN:0,51
+willow/charImg/standP:0,51
+willow/charImg/onAirN:0,9
+willow/charImg/onAirP:0,9
+willow/charImg/hited:0,0
+willow/charImg/plant:0,0

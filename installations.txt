@@ -1,0 +1,4 @@
+py -m pip install -U pycryptodome --user
+py -m pip install -U opencv-python --user
+py -m pip install -U pygame --user
+py -m pip install -U Pillow --user

@@ -1,0 +1,6 @@
+luz/fireballD/0:0,68
+luz/fireballD/1:-9,67
+luz/fireballD/2:12,66
+luz/fireballD/3:12,65
+luz/fireballD/4:11,65
+luz/fireballD/5:12,62

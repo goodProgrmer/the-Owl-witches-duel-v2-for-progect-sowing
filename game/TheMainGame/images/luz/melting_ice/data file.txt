@@ -1,0 +1,8 @@
+luz/melting_ice/0:0,141
+luz/melting_ice/1:-6,142
+luz/melting_ice/2:-20,105
+luz/melting_ice/3:-50,192
+luz/melting_ice/4:-60,184
+luz/melting_ice/5:-58,205
+luz/melting_ice/6:-50,230
+luz/melting_ice/7:-66,138

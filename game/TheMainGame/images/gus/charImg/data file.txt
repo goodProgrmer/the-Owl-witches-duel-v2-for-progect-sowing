@@ -1,0 +1,9 @@
+gus/charImg/hited:0,1
+gus/charImg/onAirN:0,0
+gus/charImg/onAirP:0,0
+gus/charImg/standN:0,1
+gus/charImg/standP:0,1
+gus/charImg/kikN:0,0
+gus/charImg/kikP:0,0
+gus/charImg/flyN:0,0
+gus/charImg/flyP:0,0

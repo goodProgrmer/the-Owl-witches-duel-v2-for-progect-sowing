@@ -1,0 +1,7 @@
+gus/dis_flyP/0:0,147
+gus/dis_flyP/10:3,142
+gus/dis_flyP/13:3,144
+gus/dis_flyP/15:4,142
+gus/dis_flyP/17:27,171
+gus/dis_flyP/3:-6,150
+gus/dis_flyP/6:-36,124

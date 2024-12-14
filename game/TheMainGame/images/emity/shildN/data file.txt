@@ -1,0 +1,6 @@
+emity/shildN/0:0,45
+emity/shildN/1:0,45
+emity/shildN/2:-7,45
+emity/shildN/3:-7,45
+emity/shildN/4:-7,45
+emity/shildN/5:-7,45

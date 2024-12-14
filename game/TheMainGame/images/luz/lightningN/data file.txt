@@ -1,0 +1,5 @@
+luz/lightningN/0:0,45
+luz/lightningN/1:-13,44
+luz/lightningN/2:-23,46
+luz/lightningN/3:-21,46
+luz/lightningN/4:-25,45

@@ -1,0 +1,5 @@
+gus/walkP/0:0,72
+gus/walkP/10:1,69
+gus/walkP/12:17,73
+gus/walkP/4:11,68
+gus/walkP/6:10,70

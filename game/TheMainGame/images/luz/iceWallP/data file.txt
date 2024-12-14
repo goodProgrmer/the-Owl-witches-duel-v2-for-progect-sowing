@@ -1,0 +1,6 @@
+luz/iceWallP/0:0,45
+luz/iceWallP/1:1,46
+luz/iceWallP/2:10,55
+luz/iceWallP/3:-2,59
+luz/iceWallP/4:-18,76
+luz/iceWallP/5:-33,77

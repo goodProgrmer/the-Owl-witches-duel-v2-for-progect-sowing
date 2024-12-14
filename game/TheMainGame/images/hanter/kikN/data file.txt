@@ -1,0 +1,7 @@
+hanter/kikN/0:0,40
+hanter/kikN/1:0,40
+hanter/kikN/2:0,40
+hanter/kikN/3:-11,40
+hanter/kikN/4:-11,40
+hanter/kikN/5:-11,40
+hanter/kikN/6:-11,40

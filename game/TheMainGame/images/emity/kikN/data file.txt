@@ -1,0 +1,6 @@
+emity/kikN/0:0,26
+emity/kikN/1:0,26
+emity/kikN/2:-54,20
+emity/kikN/3:-54,20
+emity/kikN/4:-54,20
+emity/kikN/5:-54,20

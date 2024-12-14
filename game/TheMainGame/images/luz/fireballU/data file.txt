@@ -1,0 +1,5 @@
+luz/fireballU/0:0,40
+luz/fireballU/1:-11,40
+luz/fireballU/2:-23,39
+luz/fireballU/3:3,40
+luz/fireballU/4:14,43

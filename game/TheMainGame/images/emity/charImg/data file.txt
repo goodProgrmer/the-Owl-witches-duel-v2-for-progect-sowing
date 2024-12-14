@@ -1,0 +1,8 @@
+emity/charImg/hited:0,8
+emity/charImg/onAirN:0,1
+emity/charImg/onAirP:0,1
+emity/charImg/standN:0,29
+emity/charImg/standP:0,28
+emity/charImg/shildN:-7,45
+emity/charImg/shildP:2,45
+emity/charImg/shild up:-7,41

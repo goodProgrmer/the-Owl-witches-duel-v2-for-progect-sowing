@@ -1,0 +1,7 @@
+hanter/kikP/0:0,40
+hanter/kikP/1:0,40
+hanter/kikP/2:0,40
+hanter/kikP/3:-4,40
+hanter/kikP/4:-4,40
+hanter/kikP/5:-4,40
+hanter/kikP/6:-4,40
