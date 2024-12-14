@@ -9,6 +9,7 @@ To download, install and play offline:
 4. run "game/programsRunner.py".
 
 To play online:
+
 NOTE: The online mode will work only if all computers (that will be connected to my server) are in the same network (or VPN).
 1. execute all steps required for offline playing on any computer that will be used to play the game.
 2. run "server/server.py" - only one PC in the network should run it.
